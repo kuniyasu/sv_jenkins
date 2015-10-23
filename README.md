@@ -5,7 +5,7 @@ This is xml report generating library for system verilog design.
 
 This library can use for reporting unit-test with system verilog verification.
 
-This xml report file can read jenkins, which is continus integrattion plathome.
+Jenkins, which is continus integrattion plathome,  can read this xml report file.
 
 Maybe this library make you easy regression scheme.
 
